@@ -18,7 +18,6 @@ function App() {
   })
   return(
     <div>
-  <div> Hi this is a new animal show</div>
   <button onClick={handleClick}>Add Animal</button>
   <p> {renderedAnimals} </p>
   </div>
